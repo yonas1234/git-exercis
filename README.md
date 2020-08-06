@@ -1,2 +1,2 @@
-# git-exercis  
-hello world
+# git-exercise   
+Hello World
